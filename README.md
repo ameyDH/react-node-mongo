@@ -1,4 +1,4 @@
-Two folder of front-end and back-end are provided separately.
+Two folder of front-end and back-end 
 
 Front-end : `react-app`
 Back-end : `node-sever`
